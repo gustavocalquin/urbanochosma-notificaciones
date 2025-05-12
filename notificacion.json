@@ -1,6 +1,6 @@
 {
-  "mensaje": "🚨 IMPORTANTE 🚨 A partir del 12/05/2025 el pasaje costará $550.",
+  "mensaje": "🚨 A partir del 12/05/2025 el pasaje costará $550 🚨",
   "tipo": "warning",
   "duracion": 5000,
-  "link": ""
+  "link": "#"
 }
